@@ -1,0 +1,5 @@
+I haven't determined a license yet, so for now it's (c). If you intend to use this in a commercial project, you'll need to contact me first.
+
+The code is written in BASIC, using the absolutely awesome BasCom compiler. It's about $100 but it's the best programming bargain I've ever purchased. If you have any programming experience at all, adding fratures or modifying will be easy. If you don't want to spend the $100, you can burn the precompiled binaries.
+
+This code is UGLY! UGLY! I'm not a professional programmer, probably not even an amateur programmer, but I managed to bang out working code. I put in lots of remarks that were notes for me during development. I still need to clean things up, as well as implement the LCD menu.
