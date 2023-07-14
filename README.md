@@ -1,6 +1,6 @@
 # FreedomWavePD
 An open source version of the equipment used by researchers to treat Parkinson's Disease.
-(Pictures/FreedomWave.jpg)
+![alt text] (Pictures/FreedomWave.jpg)
 
 Like many others, one morning I was watching the news and saw a story about Dr. Peter Tass at Stanford who was using vibrating gloves to treat Parkinson's Disease with amazing results. Realizing it might be years before they become available, I decided to make my own. What should have been a month of work stretched out to 8 months as I have very limited spare time. 
 
