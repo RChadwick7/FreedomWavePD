@@ -15,6 +15,8 @@ What are ERM and LRA motors? ERM stands for Eccentric Mass Motors. Basically, th
 
 The current state of the project is that the code works and does the bare minimum. It implements all the patterns properly, but there is no menu to adjust anything. I'll be adding the menu structure soon. When you turn it on, it does a self-test, tells all the driver chips to calibrate to LRA vibrators, and runs treatment for 90 minutes. 
 
+The code is written in BasCom BASIC, available at https://www.mcselec.com/ . It's not free but if you want to easily program microcontrollers it's worth every penny. I purchased a license over 20 years ago and I can't recommend it enough.
+
 Currently, there is no schematic. I will come out with one soon. The code should give you a good idea of how to make one.
 
 DISCLAIMER!!!!!!! I am NOT a Doctor. I don't make any claims that these gloves will do anything, including vibrate.
