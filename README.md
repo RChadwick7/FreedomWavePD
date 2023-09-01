@@ -17,6 +17,8 @@ The current state of the project is that the code works and does the bare minimu
 
 The code is written in BASCOM BASIC, available at https://www.mcselec.com/ . It's not free but if you want to easily program microcontrollers it's worth every penny. I purchased a license over 20 years ago and I can't recommend it enough.
 
-The schematic is in the Hardware folder. It looks complicated but it's mainly just wires. If you're not inclined to make this point-to-point, I should have a PCB ready to go by the middle of September. Be aware the schematic includes a lot of stuff you may not need. Multiple connectors are added for the haptic actuators. You only need one. Also, I added driver IC's for thumbs. This isn't implemented. It's just there in case tumb actuators turn out to be useful in the future
+The schematic is in the Hardware folder. It looks complicated but it's mainly just wires. If you're not inclined to make this point-to-point, I should have a PCB ready to go by the middle of September. Be aware the schematic includes a lot of stuff you may not need. Multiple connectors are added for the haptic actuators. You only need one. Also, I added driver IC's for thumbs. This isn't implemented. It's just there in case thumb actuators turn out to be useful in the future.
+
+When I finsh the PCB I will go back to finishing the software.
 
 DISCLAIMER!!!!!!! I am NOT a Doctor. I don't make any claims that these gloves will do anything, including vibrate.
