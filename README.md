@@ -2,6 +2,8 @@
 An open source version of the equipment used by researchers to treat Parkinson's Disease.
 ![alt text](Pictures/FreedomWave.jpg)
 
+CURRENT STATUS: As of 11/22/2023, this schematic is been based on a working prototype. However, the PCB has not been tested yet. I have ordered one. When it arrives, with the parts, I will assemble it, making an assembly video at the same time. Until then, consider this PCB untested.
+
 Like many others, one morning I was watching the news and saw a story about Dr. Peter Tass at Stanford who was using vibrating gloves to treat Parkinson's Disease with amazing results. Realizing it might be years before they become available, I decided to make my own. What should have been a month of work stretched out to 8 months as I have very limited spare time. 
 
 The theory of these gloves is relatively simple. You attach a device that either vibrates or physically pushes a small pin into the skin (NOT breaking the skin) to each finger, minus the thumbs (8 in total). These are activated in specific random patterns. The vibration triggers nerves in the fingers and these nerves go up to the brain. When these nerves are triggered in certain patterns, they can, in simple terms, help the brain straighten itself out. Look at Dr. Tass's work for much more detail.
