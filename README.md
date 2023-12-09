@@ -2,6 +2,8 @@
 An open source version of the equipment used by researchers to treat Parkinson's Disease.
 ![alt text](Pictures/FreedomWave.jpg)
 
+UPDATE 12/9/23 DO NOT USE THE PCB! I ordered boards and assembled, and discovered a number of serious mistakes, as well as a lot of little things I need to tweak. I will release an updated PCB soon.
+
 CURRENT STATUS: As of 11/22/2023, this schematic is been based on a working prototype. However, the PCB has not been tested yet. I have ordered one. When it arrives, with the parts, I will assemble it, making an assembly video at the same time. Until then, consider this PCB untested.
 
 **** If you don't know what this is, see this video: https://youtu.be/YEEwbxFT4Bc?feature=shared
