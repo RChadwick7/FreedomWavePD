@@ -23,7 +23,7 @@ The project is divided into two parts: the gloves themselves, and the controller
 
 The code is written in BASCOM BASIC, available at https://www.mcselec.com/ . It's not free but if you want to easily program microcontrollers it's worth every penny. I purchased a license over 20 years ago and I can't recommend it enough.
 
-The schematic is in the Hardware folder. It looks complicated but it's mainly just wires. If you're not inclined to make this point-to-point, a PCB has finally been completed. Be aware the schematic includes a lot of stuff you may not need. Two output connectors are added for the haptic actuators. You only need one. Also, I added driver IC's for thumbs. This isn't implemented. It's just there in case thumb actuators turn out to be useful in the future.
+The schematic is in the Hardware folder. It looks complicated but it's mainly just wires. If you're not inclined to make this point-to-point, a PCB is available. Be aware the schematic includes a lot of stuff you may not need. Two output connectors are added for the haptic actuators. You only need one. Also, I added driver IC's for thumbs. This isn't implemented. It's just there in case thumb actuators turn out to be useful in the future.
 
 When I finish a video of the PCB assembly I will go back to finishing the software.
 
