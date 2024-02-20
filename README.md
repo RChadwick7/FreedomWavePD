@@ -2,7 +2,7 @@
 An open source version of the equipment used by researchers to treat Parkinson's Disease.
 ![alt text](Pictures/FreedomWave.jpg)
 
-UPDATE 102-19-2024 The PCB file should now be good. We will soon add a link to a YouTube video that shows how to assemble. The PCB used in the video had a few small mistakes that were corrected in the posted PCB and Gerbers, as well as the kinks to ordering a PCB.
+UPDATE 02-19-2024 The PCB file should now be good. We will soon add a link to a YouTube video that shows how to assemble. The PCB used in the video had a few small mistakes that were corrected in the posted PCB and Gerbers, as well as the kinks to ordering a PCB.
 
 **** If you don't know what this is, see this video: https://youtu.be/YEEwbxFT4Bc?feature=shared
 
