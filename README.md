@@ -10,7 +10,7 @@ Like many others, one morning I was watching the news and saw a story about Dr. 
 
 The theory of these gloves is relatively simple. You attach a device that either vibrates or physically pushes a small pin into the skin (NOT breaking the skin) to each finger, minus the thumbs (8 in total). These are activated in specific random patterns. The vibration triggers nerves in the fingers and these nerves go up to the brain. When these nerves are triggered in certain patterns, they can, in simple terms, help the brain straighten itself out. Look at Dr. Tass's work for much more detail.
 
-The design goals were to make everything as flexible and adjustable as possible. While the results seem incredible, the researchers don't necessarily know the best settings yet. The gloves I constructed are bulky and awkward to put on but have the advantage of being able to put the vibrator anywhere on the fingertip. The circuit uses 8 DRV2605L haptic driver ic's The final PCB version will have room for 10 DRV2605L's in case there may be a benefit to using the thumbs. While these are more expensive than simple transistor drivers, they will easily drive both ERM and LRA vibrators.
+The design goals were to make everything as flexible and adjustable as possible. While the results seem incredible, the researchers don't necessarily know the best settings yet. The gloves I constructed are bulky and awkward to put on but have the advantage of being able to put the vibrator anywhere on the fingertip. The circuit uses 8 DRV2605L haptic driver ic's but has room for 10 DRV2605L's in case there may be a benefit to using the thumbs. While these are more expensive than simple transistor drivers, they will easily drive both ERM and LRA vibrators. If there's demand, I'll design a daughterboard that will let this drive Piezo actuators.
 
 Another design goal was to make this as easy as possible to make. I originally had hoped this could be done without soldering, but this just doesn't seem likely. My intention is that you will be able to order a PCB and all components, solder mostly modules to the PCB, and make the gloves. I will have step by step directions for making everything. If you want to make them now, you'll need more skill and knowledge.
 
@@ -24,7 +24,5 @@ The project is divided into two parts: the gloves themselves, and the controller
 The code is written in BASCOM BASIC, available at https://www.mcselec.com/ . It's not free but if you want to easily program microcontrollers it's worth every penny. I purchased a license over 20 years ago and I can't recommend it enough.
 
 The schematic is in the Hardware folder. It looks complicated but it's mainly just wires. If you're not inclined to make this point-to-point, a PCB is available. Be aware the schematic includes a lot of stuff you may not need. Two output connectors are added for the haptic actuators. You only need one. Also, I added driver IC's for thumbs. This isn't implemented. It's just there in case thumb actuators turn out to be useful in the future.
-
-When I finish a video of the PCB assembly I will go back to finishing the software.
 
 DISCLAIMER!!!!!!! I am NOT a Doctor. I don't make any claims that these gloves will do anything, including vibrate.
