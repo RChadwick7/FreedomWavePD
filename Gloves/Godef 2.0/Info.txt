@@ -1,0 +1,8 @@
+Full info is located here: https://bb.f2heal.com/viewtopic.php?p=11
+
+3D design housing and contactor pin for TECTONIC TEAX09C005-8 Audio Exciters | design pgodefroy
+
+We have chosen a tight press fit of the TEAX9, instead of glueing them against a fix stop. This should allow us to play with the length of how much the contactor protrudes from the housing and also to compensate for tolerances.
+
+The dimension of the housing are 31x18x17 mm (lxwxh).
+The diameter of the contactor pin is 4 mm.
