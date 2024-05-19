@@ -1,3 +1,4 @@
+# Assembling the enclosure
 While you are welcome to put the PCB in any enclosure you want, the PCB was designed to be sandwiched between two pieces of Lexan. The Lexan sheets usually come with protective plastic on both sides. It's recommended you leave this on until you're done drilling and filing. Instructions:
 
 1) Cut two pieces of Lexan (Polycarbonate) exactly 4 inches x 6 inches.
